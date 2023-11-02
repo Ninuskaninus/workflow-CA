@@ -1,3 +1,6 @@
+[![End 2 End](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/gpt.yml/badge.svg)](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/gpt.yml)
+[![Code Review](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/gpt.yml/badge.svg)](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/gpt.yml)
+
 # Workflow Course Assigment
 
 The primary goal of this project is to leverage the skills and knowledge acquired in this course to enhance the quality of a software package. This enhancement will be achieved through the implementation of effective development workflows, making the development process more efficient and streamlined.
@@ -66,5 +69,4 @@ The primary goal of this project is to leverage the skills and knowledge acquire
 - The user can log out with the logout button.
 
 
-[![End 2 End](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/gpt.yml/badge.svg)](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/gpt.yml)
-[![Code Review](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/gpt.yml/badge.svg)](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/gpt.yml)
+
