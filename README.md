@@ -32,7 +32,7 @@ The primary goal of this project is to leverage the skills and knowledge acquire
 
 ## Project Configuration
 
-- Project is configured to run Prettier on commit.
+- Project is configured to run Prettier on save.
 - Project is configured to run ESLint on commit.
 - Project default branch is protected, code is versioned, and branching conventions have been followed.
 - Project is configured to build and deploy to pages on merge to the default branch.
@@ -58,7 +58,7 @@ The primary goal of this project is to leverage the skills and knowledge acquire
 
 ## Issues and Bugs
 
-- Issues and bugs are tracked in the Issues tab on GitHub.
+- There were no "new" bugs detected that werent already added in the bugs-tab in the repo
 
 ## Features
 
