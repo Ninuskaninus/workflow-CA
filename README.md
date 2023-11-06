@@ -1,5 +1,5 @@
 [![End 2 End](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/gpt.yml/badge.svg)](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/gpt.yml)
-[![Code Review](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/gpt.yml/badge.svg)](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/gpt.yml)
+[![Unit test](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/gpt.yml/badge.svg)](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/gpt.yml)
 
 # Workflow Course Assigment
 
