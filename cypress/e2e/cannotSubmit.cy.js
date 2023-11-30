@@ -1,8 +1,10 @@
 describe('User Login and Profile Access', () => {
-  it('should log in and access the user profile', () => {
+  it('when trying to log in with wrong credentials, error message should appear', () => {
     cy.visit('index.html');
     cy.wait(2000);
-    cy.get("button[data-bs-target='#loginModal']:visible").click();
+    cy.get("button[data-bs-target='#loginModal']:visible", { multiple: true })
+      .first()
+      .click();
 
     cy.wait(2000);
     cy.get("input[type='email']:visible").type('wrong@stud.noroff.no');
