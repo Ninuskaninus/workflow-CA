@@ -1,11 +1,9 @@
-// login.test.js
 import 'jest-localstorage-mock';
 import axios from 'axios';
 import MockAdapter from 'axios-mock-adapter';
-import fetch from 'node-fetch'; // Import node-fetch
+import fetch from 'node-fetch';
 const { login } = require('./login.js');
 
-// Mock fetch
 jest.mock('node-fetch', () => require('jest-fetch-mock'));
 
 describe('login function', () => {
@@ -20,7 +18,6 @@ describe('login function', () => {
     const email = 'ninamd@stud.noroff.no';
     const password = 'ninaamdal12345';
 
-    // Mock the fetch response
     fetch.mockResponseOnce(JSON.stringify({ authToken: 'testAuthToken' }));
 
     await login(email, password);
@@ -31,6 +28,6 @@ describe('login function', () => {
 
   afterAll(() => {
     mock.restore();
-    jest.unmock('node-fetch'); // Unmock fetch after all tests
+    jest.unmock('node-fetch');
   });
 });
