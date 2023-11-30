@@ -1,5 +1,5 @@
-[![End 2 End](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/gpt.yml/badge.svg)](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/gpt.yml)
-[![Unit test](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/gpt.yml/badge.svg)](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/gpt.yml)
+[![Automated E2E Testing](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/e2e-test.yml/badge.svg)](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/e2e-test.yml)
+[![Automated Unit Testing](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Ninuskaninus/workflow-CA/actions/workflows/unit-test.yml)
 
 # Workflow Course Assigment
 
